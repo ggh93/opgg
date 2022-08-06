@@ -4,6 +4,9 @@
 
 - React
 - mui
+- React router dom
+- axios
+- tailwindcss
 
 ## 사용 라이브러리
 
