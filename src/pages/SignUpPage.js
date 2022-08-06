@@ -8,9 +8,10 @@ function SignPage() {
 		navigate('/test');
 	};
 	return (
-		<div className="shrink-0">
-			<h3>로그인</h3>
-			<Button onClick={handleClick}>회원가입</Button>
+		<div>
+			<h3>회원가입</h3>
+			<form></form>
+			<Button onClick={handleClick}>저장</Button>
 		</div>
 	);
 }
